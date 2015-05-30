@@ -1,0 +1,7 @@
+d2bc7c6e41d75064b395fd57fdb72ebc0900631bdc8333194462349ba88f9ddc
+
+d2bc7c6e41d75064b395fd57fdb72ebc0900631bdc8333194462349ba88f9ddc
+
+
+curl -u 01378bef08f8018089dbce8de1d2c490420d50970418a0ff -H "Content-Type: application/json" -H "X-Ionic-Application-Id: 6e89b716" https://push.ionic.io/api/v1/push -d '{"tokens":["d2bc7c6e41d75064b395fd57fdb72ebc0900631bdc8333194462349ba88f9ddc"],"notification":{"alert":"It worked already!","ios":{"badge":1}}}'
+
